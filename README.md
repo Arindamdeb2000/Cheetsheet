@@ -4,6 +4,6 @@
 
 A repository where you will find the handy cheetsheet of different tools like Python,MS - Excel etc.
 
-# credits
+# Credits
 Python Cheetsheet:
 Excel Cheetsheet :
