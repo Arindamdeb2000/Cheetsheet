@@ -5,5 +5,6 @@
 A repository where you will find the handy cheetsheet of different tools like Python,MS - Excel etc.
 
 # Credits
-Python Cheetsheet:
-Excel Cheetsheet :
+
+Python Cheetsheet: Finxter
+Excel Cheetsheet : CustomGuide
