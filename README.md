@@ -1,4 +1,4 @@
-# Cheetsheet
+# Cheetsheet Repo
 <img src="https://1.bp.blogspot.com/-z6g5Gj2vWBI/Xay3pQt5lyI/AAAAAAAAUPY/YMXp6wYVk0cAgZs53dledZIGoWCJ5AgEQCLcBGAsYHQ/s400/ZigzagAccomplishedAmericanwarmblood-max-1mb.gif" align="centre" height="undefined" width="900" />
 </div>
 
