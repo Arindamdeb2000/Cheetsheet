@@ -10,4 +10,4 @@ Python Cheetsheet: Finxter
 
 Excel Cheetsheet : CustomGuide
 
-Red Team & Offensive Security : Peerlyst
+Red Team & Offensive Security Cheetsheet : Peerlyst
