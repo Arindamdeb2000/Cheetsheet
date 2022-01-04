@@ -7,5 +7,7 @@ A repository where you will find the handy cheetsheet of different tools/platfor
 # Credits
 
 Python Cheetsheet: Finxter
+
 Excel Cheetsheet : CustomGuide
+
 Red Team & Offensive Security : Peerlyst
