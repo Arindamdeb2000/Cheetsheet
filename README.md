@@ -15,3 +15,5 @@ Red Team & Offensive Security Cheetsheet : Peerlyst
 Advance Excel CheetSheet: Eforexcel.com
 
 Machine learning for everyone: Unknown #please #email #for #credits
+
+30 Chrome Extensions for marketing : @thesurojitmahato
