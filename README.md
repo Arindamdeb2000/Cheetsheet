@@ -1,5 +1,5 @@
 # Cheetsheet Repo
-<img src="https://1.bp.blogspot.com/-z6g5Gj2vWBI/Xay3pQt5lyI/AAAAAAAAUPY/YMXp6wYVk0cAgZs53dledZIGoWCJ5AgEQCLcBGAsYHQ/s400/ZigzagAccomplishedAmericanwarmblood-max-1mb.gif" align="centre" height="undefined" width="900" />
+<img src="https://1.bp.blogspot.com/-z6g5Gj2vWBI/Xay3pQt5lyI/AAAAAAAAUPY/YMXp6wYVk0cAgZs53dledZIGoWCJ5AgEQCLcBGAsYHQ/s400/ZigzagAccomplishedAmericanwarmblood-max-1mb.gif" align="centre" height="undefined" width="500" />
 </div>
 
 A repository where you will find the handy cheetsheet of different tools/platforms like Python,MS - Excel etc.
