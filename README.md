@@ -19,3 +19,5 @@ Machine learning for everyone: Unknown #please #email #for #credits
 30 Chrome Extensions for marketing : @thesurojitmahato
 
 Incident Response : Chris Davis 
+
+Python for Data Analysis : Michel Brothers
